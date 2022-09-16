@@ -13,7 +13,7 @@ int main(void)
 	printf("%d", a);
 	while (i < 101)
 	{
-		if (i % 3 == 0 && i % % == 0)
+		if (i % 3 == 0 && i % 5 == 0)
 			printf("FizzBuzz");
 		else if (i % 3 == 0)
 			printf(" Fizz");
