@@ -22,7 +22,7 @@ void print_triangle(int size)
 			while (i <= size)
 			{
 				a = 0;
-				while (a < size -i)
+				while (a < size - i)
 				{
 					_putchar(' ');
 					a++;
