@@ -1,5 +1,3 @@
-#include <main.h>
-
 /**
  * flip_bits - A function that gets number of bits needed to flip
  * @n: How many bit flips are needed to equal m for n
